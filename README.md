@@ -8,7 +8,7 @@ Personal Java learning materials
 
 
 
-[SpringBoot][(https://github.com/yongsuhuanzhe/MyJavaStudy/tree/main/SpringBoot)]
+[SpringBoot][(SpringBoot)]
 
 
 
